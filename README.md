@@ -24,4 +24,5 @@ N/A
 ## Questions
 * Github: https://github.com/Unk171
 * You can send your questions to my e-mail: 7353687@gmail.com
+* Deployed: https://pure-river-81892-8e4fae2b40e3.herokuapp.com/
   
